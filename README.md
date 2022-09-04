@@ -1,5 +1,5 @@
-# AQUABOT-MD
-This project is still being tested
+# Lelouch-MD
+This project is on test
 <p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://wallpapercave.com/wp/wp2883460.jpg"/></a>
  <p align="center">
 <a href="https://github.com/sanuwaofficial/AQUABOT-MD"><img title="Followers" src="https://img.shields.io/github/followers/sanuwaofficial?e=flat-square"></a>
