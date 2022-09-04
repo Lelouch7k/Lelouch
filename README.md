@@ -18,7 +18,7 @@ This project is on test
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
 
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lelouch7k/Lelouch)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Lelouch7k/Lelouch)
 
 ---------------------------------   
 
